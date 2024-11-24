@@ -1,3 +1,8 @@
+
+This guide is for a similar app, but you can use this guide too for setting it up and testing it.
+
+
+
 # Backend Social Media App
 
 A distributed backend application for social media functionality with multiple microservices.
